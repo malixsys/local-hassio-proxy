@@ -1,0 +1,14 @@
+{
+  "name": "local-hassio-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "malixsys",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-http-proxy": "^1.6.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
